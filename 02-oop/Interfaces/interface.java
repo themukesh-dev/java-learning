@@ -32,3 +32,4 @@ class A
 // Variables inside interface are final and static.
 // Final means they are constants
 // Static means they can be called just by mentioning interface name.
+// A class can inherit multiple interfaces
