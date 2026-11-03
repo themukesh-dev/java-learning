@@ -1,24 +1,43 @@
 # 🏦 Bank Management System
 
-Working on a simple Bank Management System using Java.
+Building a simple Bank Management System using Java to practise Core Java and OOP concepts.
 
-Building this project to practise what I've learned in Core Java and get better at writing code by actually making something.
+## Features & Progress
 
-### Features
-- Create bank accounts
-- Deposit & withdraw money
-- Check account balance
-- Transfer money
-- View account details
+### 1. Account Management
 
-### Concepts I'm practising
-- OOP
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Exception Handling
-- Collections
+- ✅ Create a new account
+- ✅ Generate a account number
+- ✅ Show account details
+- [ ] Search account
+- [ ] Update account details
+- [ ] Close an account
 
-**Tech:** Java ☕
+### 2. Banking Operations
 
-Just learning, experimenting and improving one project at a time.
+- [ ] Deposit money
+- [ ] Withdraw money
+- [ ] Transfer money
+- [ ] Check account balance
+- [ ] Prevent withdrawal beyond available balance
+- [ ] Show transaction history
+
+### 3. Loan Management
+
+- [ ] Apply for a loan
+- [ ] Calculate loan interest
+- [ ] Calculate monthly EMI
+- [ ] Show loan details
+- [ ] Repay loan
+- [ ] Show remaining loan balance
+
+### 4. Account Types
+
+- [ ] Savings Account
+- [ ] Current Account
+
+## Tech Stack
+
+- Java ☕
+
+Still learning, building and improving one feature at a time. 
